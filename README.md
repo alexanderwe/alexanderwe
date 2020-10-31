@@ -16,7 +16,6 @@ My name is Alex and I am an iOS developer for medical applications. I enjoy lear
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Create your app with SwiftUI only](https://teabyte.dev/blog/blog/2020-06-28-swiftui-only-app)
 - [AppBuilders 2020 @ 🌍](https://teabyte.dev/blog/blog/2020-05-17-appbuilders-2020)
 - [Using Firebase with Combine](https://teabyte.dev/blog/blog/2020-04-18-firebase-and-combine)
