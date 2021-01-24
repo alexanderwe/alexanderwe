@@ -16,11 +16,11 @@ My name is Alex and I am an iOS developer for medical applications. I enjoy lear
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From UIImage to searchable PDF Part 2](https://alexanderweiss.dev/blog/2021-01-24-from-uiimage-to-searchable-pdf-part-2)
 - [SPM tests on GitHub Actions](https://alexanderweiss.dev/blog/2020-12-13-spm-tests-on-github-actions)
 - [From UIImage to searchable PDF Part 1](https://alexanderweiss.dev/blog/2020-11-28-from-uiimage-to-searchable-pdf-part-1)
 - [Create your app with SwiftUI only](https://alexanderweiss.dev/blog/2020-06-28-swiftui-only-app)
 - [AppBuilders 2020 @ 🌍](https://alexanderweiss.dev/blog/2020-05-17-appbuilders-2020)
-- [Using Firebase with Combine](https://alexanderweiss.dev/blog/2020-04-18-firebase-and-combine)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://alexanderweiss.dev/blog)
