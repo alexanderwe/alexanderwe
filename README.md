@@ -16,11 +16,11 @@ My name is Alex and I am an iOS developer for medical applications. I enjoy lear
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Add test data to SPM packages](https://alexanderweiss.dev/blog/2021-05-15-add-test-data-to-spm-packages)
 - [From UIImage to searchable PDF Part 3](https://alexanderweiss.dev/blog/2021-03-29-from-uiimage-to-searchable-pdf-part-3)
 - [Empty state with diffable datasource](https://alexanderweiss.dev/blog/2021-03-14-empty-state-with-diffable-datasource)
 - [From UIImage to searchable PDF Part 2](https://alexanderweiss.dev/blog/2021-01-24-from-uiimage-to-searchable-pdf-part-2)
 - [SPM tests on GitHub Actions](https://alexanderweiss.dev/blog/2020-12-13-spm-tests-on-github-actions)
-- [From UIImage to searchable PDF Part 1](https://alexanderweiss.dev/blog/2020-11-28-from-uiimage-to-searchable-pdf-part-1)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://alexanderweiss.dev/blog)
