@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-My name is Alex and I am an iOS developer for medical applications. I enjoy learning new things around Swift, iOS and the Apple ecosystem every day.
+My name is Alex and I am an iOS developer. I enjoy learning new things around Swift, iOS and the Apple ecosystem every day.
 
 ### Connect with me:
 
