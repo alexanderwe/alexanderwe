@@ -16,11 +16,11 @@ My name is Alex and I am an iOS developer. I enjoy learning new things around Sw
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scale up your app with Microfeatures](https://alexanderweiss.dev/blog/2022-01-12-scale-up-your-app-with-microfeatures)
 - [Add test data to SPM packages](https://alexanderweiss.dev/blog/2021-05-15-add-test-data-to-spm-packages)
 - [From UIImage to searchable PDF Part 3](https://alexanderweiss.dev/blog/2021-03-29-from-uiimage-to-searchable-pdf-part-3)
 - [Empty state with diffable datasource](https://alexanderweiss.dev/blog/2021-03-14-empty-state-with-diffable-datasource)
 - [From UIImage to searchable PDF Part 2](https://alexanderweiss.dev/blog/2021-01-24-from-uiimage-to-searchable-pdf-part-2)
-- [SPM tests on GitHub Actions](https://alexanderweiss.dev/blog/2020-12-13-spm-tests-on-github-actions)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://alexanderweiss.dev/blog)
