@@ -7,6 +7,9 @@ My name is Alex and I am an iOS developer. I enjoy learning new things around Sw
 <a href="https://alexanderweiss.dev">
   <img align="left" alt="Alexander Weiß | Homepage" width="20px" src="https://raw.githubusercontent.com/alexanderwe/alexanderwe/master/assets/globe.svg" />
 </a>
+<a href="https://mastodon.online/@alexanderwe">
+  <img align="left" alt="Alexander Weiß | Mastodon" width="21px" src="https://raw.githubusercontent.com/alexanderwe/alexanderwe/master/assets/mastodon.svg" />
+</a>
 <a href="https://twitter.com/_al_we">
   <img align="left" alt="Alexander Weiß | Twitter" width="21px" src="https://raw.githubusercontent.com/alexanderwe/alexanderwe/master/assets/twitter.svg" />
 </a>
