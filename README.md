@@ -19,11 +19,11 @@ My name is Alex and I am an iOS developer. I enjoy learning new things around Sw
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Three Ways to communicate via WatchConnectivity](https://alexanderweiss.dev/blog/2023-01-18-three-ways-to-communicate-via-watchconnectivity)
 - [Modify Long Look Notification View on watchOS](https://alexanderweiss.dev/blog/2022-12-18-modify-long-look-notification-view-on-watchos)
 - [Redact Lock Screen Widgets when the device is locked](https://alexanderweiss.dev/blog/2022-11-19-redact-your-lockscreen-widgets-when-the-device-is-locked)
 - [Scale up your app with Microfeatures](https://alexanderweiss.dev/blog/2022-01-12-scale-up-your-app-with-microfeatures)
 - [Add test data to SPM packages](https://alexanderweiss.dev/blog/2021-05-15-add-test-data-to-spm-packages)
-- [From UIImage to searchable PDF Part 3](https://alexanderweiss.dev/blog/2021-03-29-from-uiimage-to-searchable-pdf-part-3)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://alexanderweiss.dev/blog)
