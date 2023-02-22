@@ -19,11 +19,11 @@ My name is Alex and I am an iOS developer. I enjoy learning new things around Sw
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Widget Intent recommendations on watchOS and a bug](https://alexanderweiss.dev/blog/2023-02-22-widget-intent-recommendations-and-a-bug)
 - [iOS UI Testing with maestro](https://alexanderweiss.dev/blog/2023-02-11-ios-ui-testing-with-maestro)
 - [Detect watchOS app state changes](https://alexanderweiss.dev/blog/2023-02-01-detect-watchapp-state-changes)
 - [Accidental Multiple Push with SwiftUI NavigationStack](https://alexanderweiss.dev/blog/2023-01-24-accidental-double-push-with-swiftui-navigationstack)
 - [Three Ways to communicate via WatchConnectivity](https://alexanderweiss.dev/blog/2023-01-18-three-ways-to-communicate-via-watchconnectivity)
-- [Modify Long Look Notification View on watchOS](https://alexanderweiss.dev/blog/2022-12-18-modify-long-look-notification-view-on-watchos)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://alexanderweiss.dev/blog)
