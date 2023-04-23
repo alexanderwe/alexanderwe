@@ -19,11 +19,11 @@ My name is Alex and I am an iOS developer. I enjoy learning new things around Sw
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Double Protocol Conformance](https://alexanderweiss.dev/blog/2023-04-23-double-protocol-conformance)
 - [LPMetadataProvider - Extract URL metadata](https://alexanderweiss.dev/blog/2023-04-16-lpmetadataprovider-extract-url-metadata)
 - [SwiftUI&#39;s .task modifier](https://alexanderweiss.dev/blog/2023-03-05-swiftui-task-modifier)
 - [Widget Intent recommendations on watchOS and a bug](https://alexanderweiss.dev/blog/2023-02-22-widget-intent-recommendations-and-a-bug)
 - [iOS UI Testing with maestro](https://alexanderweiss.dev/blog/2023-02-11-ios-ui-testing-with-maestro)
-- [Detect watchOS app state changes](https://alexanderweiss.dev/blog/2023-02-01-detect-watchapp-state-changes)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://alexanderweiss.dev/blog)
