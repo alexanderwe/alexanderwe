@@ -19,11 +19,11 @@ My name is Alex and I am an iOS developer. I enjoy learning new things around Sw
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Push Notifications in SwiftUI](https://alexanderweiss.dev/blog/2023-08-13-push-notification-in-swiftui)
 - [AppStore Connect: Manage Version and build number](https://alexanderweiss.dev/blog/2023-07-04-appstore-connect-manage-app-version-and-build-number)
 - [AppIntents for Widgets](https://alexanderweiss.dev/blog/2023-06-10-appintents-for-widgets)
 - [Double Protocol Conformance](https://alexanderweiss.dev/blog/2023-04-23-double-protocol-conformance)
 - [LPMetadataProvider - Extract URL metadata](https://alexanderweiss.dev/blog/2023-04-16-lpmetadataprovider-extract-url-metadata)
-- [SwiftUI&#39;s .task modifier](https://alexanderweiss.dev/blog/2023-03-05-swiftui-task-modifier)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://alexanderweiss.dev/blog)
