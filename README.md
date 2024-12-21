@@ -19,11 +19,11 @@ My name is Alex and I am an iOS developer. I enjoy learning new things around Sw
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Using TextRenderer to create highlighted text](https://alexanderweiss.dev/blog/2024-06-24-using-textrenderer-to-create-highlighted-text)
-- [Style your TipKit Tips](https://alexanderweiss.dev/blog/2023-09-16-style-your-tipkit-tips)
-- [Push Notifications in SwiftUI](https://alexanderweiss.dev/blog/2023-08-13-push-notification-in-swiftui)
-- [AppStore Connect: Manage Version and build number](https://alexanderweiss.dev/blog/2023-07-04-appstore-connect-manage-app-version-and-build-number)
-- [AppIntents for Widgets](https://alexanderweiss.dev/blog/2023-06-10-appintents-for-widgets)
+- [Using TextRenderer to create highlighted text](https://alexanderweiss.dev2024-06-24-using-textrenderer-to-create-highlighted-text)
+- [Style your TipKit Tips](https://alexanderweiss.dev2023-09-16-style-your-tipkit-tips)
+- [Push Notifications in SwiftUI](https://alexanderweiss.dev2023-08-13-push-notification-in-swiftui)
+- [AppStore Connect: Manage Version and build number](https://alexanderweiss.dev2023-07-04-appstore-connect-manage-app-version-and-build-number)
+- [AppIntents for Widgets](https://alexanderweiss.dev2023-06-10-appintents-for-widgets)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://alexanderweiss.dev/blog)
