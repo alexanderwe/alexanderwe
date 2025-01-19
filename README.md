@@ -19,11 +19,11 @@ My name is Alex and I am an iOS developer. I enjoy learning new things around Sw
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Effortless SwiftUI Theming](https://alexanderweiss.dev/blog/2025-01-19-effortless-swiftui-theming)
 - [The Power of ShapeStyle for Colour theming in SwiftUI](https://alexanderweiss.dev/blog/2024-12-27-the-power-of-shapestyle-for-colour-theming-in-swiftui)
 - [Using TextRenderer to create highlighted text](https://alexanderweiss.dev/blog/2024-06-24-using-textrenderer-to-create-highlighted-text)
 - [Style your TipKit Tips](https://alexanderweiss.dev/blog/2023-09-16-style-your-tipkit-tips)
 - [Push Notifications in SwiftUI](https://alexanderweiss.dev/blog/2023-08-13-push-notification-in-swiftui)
-- [AppStore Connect: Manage Version and build number](https://alexanderweiss.dev/blog/2023-07-04-appstore-connect-manage-app-version-and-build-number)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://alexanderweiss.dev/blog)
