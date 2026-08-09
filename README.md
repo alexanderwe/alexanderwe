@@ -19,11 +19,11 @@ My name is Alex and I am an iOS developer. I enjoy learning new things around Sw
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Concentric Buttons with OS 27&#39;s SwiftUI APIs](https://alexanderweiss.dev/blog/2026-08-09-concentric-button-os-27-swiftui-apis)
 - [The Anatomy of a Reusable SwiftUI View](https://alexanderweiss.dev/blog/2026-07-12-the-anatomy-of-a-reusable-swiftui-view)
 - [Multi-Version Multi-Framework DocC Documentation](https://alexanderweiss.dev/blog/2026-06-28-multi-version-multi-target-docc)
 - [@_exported import VS public import](https://alexanderweiss.dev/blog/2026-01-16-exported-import-vs-public-import)
 - [Adaptive sheet presentation in SwiftUI](https://alexanderweiss.dev/blog/2025-12-30-adaptive-sheet-presentation-in-swiftui)
-- [SwiftUI&#39;s editMode environment](https://alexanderweiss.dev/blog/2025-03-16-swiftui-reacting-to-edit-mode)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://alexanderweiss.dev/blog)
